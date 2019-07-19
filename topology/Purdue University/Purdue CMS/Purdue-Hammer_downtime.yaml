@@ -166,3 +166,14 @@
   Services:
   - CE
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 285144254
+  Description: Planned cluster maintenance
+  Severity: Outage
+  StartTime: Jul 23, 2019 11:55 +0000
+  EndTime: Jul 23, 2019 23:55 +0000
+  CreatedTime: Jul 19, 2019 00:33 +0000
+  ResourceName: Purdue-Hammer-CE
+  Services:
+  - CE
+# ---------------------------------------------------------
