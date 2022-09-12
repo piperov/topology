@@ -1284,3 +1284,124 @@
   Services:
   - net.perfSONAR.Latency
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890215
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Bell
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890216
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Brown
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890217
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Hadoop-CE
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890218
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Hadoop-SE-Gridftp
+  Services:
+  - GridFtp
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890219
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Halstead
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890220
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Hammer
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890221
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: Purdue-Rice
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890222
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: T2_US_Purdue_Squid1
+  Services:
+  - Squid
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890223
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: T2_US_Purdue_Squid2
+  Services:
+  - Squid
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890224
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: US-Purdue BW
+  Services:
+  - net.perfSONAR.Bandwidth
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1279890225
+  Description: 'SE: Change in HDFS cluster parameters, optimizing I/O'
+  Severity: Outage
+  StartTime: Sep 15, 2022 10:00 +0000
+  EndTime: Sep 15, 2022 15:59 +0000
+  CreatedTime: Sep 12, 2022 13:23 +0000
+  ResourceName: US-Purdue LT
+  Services:
+  - net.perfSONAR.Latency
+# ---------------------------------------------------------
